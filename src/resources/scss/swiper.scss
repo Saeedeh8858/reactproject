@@ -1,0 +1,48 @@
+._8BoxOwl {
+
+    &--box {
+        height: 162px !important;
+        border: 1px solid #e0e0e0 !important;
+        flex:1;
+    }
+}
+
+.swipereight .swiper-button-prev:after,.swipereight .swiper-button-next:after{
+    --swiper-navigation-size: 20px !important;
+}
+.swipereight .swiper-button-next , 
+.swipereight .swiper-button-prev {
+    text-align: center !important;
+    border: none !important;
+    display: flex !important;
+    padding: 16px 15px !important;
+    z-index: 1 !important;
+    background-color: #e0e0e0;;
+    //@include owl-btn-color($color:#e0e0e0);
+    border-bottom-left-radius: .5rem;
+    border-top-left-radius: .5rem;
+
+    &.gray {
+        background-color: #e0e0e0;;
+      //  @include owl-btn-color($color:$color-e0);
+    }
+
+    &.yellow {
+        background-color: yellow;
+      //  @include owl-btn-color($color:$color-yellow);
+    }
+
+    &.end-rounded {
+        border-bottom-left-radius: .5rem;
+        border-top-left-radius: .5rem;
+    }
+
+    &.start-rounded {
+        border-bottom-right-radius: .5rem;
+        border-top-right-radius: .5rem;
+    }
+
+    &.--rounded {
+       // @include radius(5px,5px,5px,5px);
+    }
+}

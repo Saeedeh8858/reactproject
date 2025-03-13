@@ -1,0 +1,518 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "location":"Turkey",
+      "name": "1-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":5.00,
+      "Items" : 5,
+      "Instock" : true,
+      "shipping":"in 3 days",
+     "images": [
+       "assets/image/sw1.jpg",
+      "assets/image/sw3.jpg",
+      "assets/image/sw-2.jpg",
+     "assets/image/6b@2x.png",
+      "assets/image/1-big-1@2x.png",
+      "assets/image/sw4.jpg"
+      ],
+      "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Men's sportswear",
+      "detail" : "Men's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."         
+    },
+    {
+      "id": 2,
+      "location":"Dubai",
+      "name": "2-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":20.00,
+      "Items" : 5,
+      "instock" : true,
+      "shipping":"in 3 days",
+      "images": [
+        "assets/image/sw-2.jpg",
+        "assets/image/sw3.jpg",
+        "assets/image/sw1.jpg",
+        "assets/image/6b@2x.png",
+        "assets/image/1-big-1@2x.png",
+        "assets/image/sw4.jpg"
+      ],
+     "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."     
+    },
+    {
+      "id": 3,
+      "location":"India",
+      "name": "3-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":20.00,
+      "Items" : 5,
+      "instock" : true,
+      "shipping":"in 3 days",
+      "images": [
+        "assets/image/sw3.jpg",
+        "assets/image/sw1.jpg",
+        "assets/image/sw-2.jpg",
+       "assets/image/6b@2x.png",
+        "assets/image/1-big-1@2x.png",
+        "assets/image/sw4.jpg"
+      ],
+     "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."       
+    },
+    {
+      "id": 4,
+      "location":"China",
+      "name": "4-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":20.00,
+      "Items" : 5,
+      "instock" : true,
+      "shipping":"in 3 days",
+      "images": [
+        "assets/image/6b@2x.png",
+        "assets/image/1-big-1@2x.png",
+        "assets/image/sw4.jpg",
+        "assets/image/sw1.jpg",
+        "assets/image/sw-2.jpg",
+        "assets/image/sw3.jpg"
+      ],
+      "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."          
+    },
+    {
+     "id": 5,
+      "location":"Turkey",
+      "name": "5-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":5.00,
+      "Items" : 5,
+      "Instock" : true,
+      "shipping":"in 3 days",
+     "images": [
+      "assets/image/sw3.jpg",
+      "assets/image/sw1.jpg",
+      "assets/image/sw-2.jpg",
+     "assets/image/6b@2x.png",
+      "assets/image/1-big-1@2x.png",
+      "assets/image/sw4.jpg"
+     
+      ],
+      "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."     
+    }
+  ],
+
+
+  "WomenCat": [
+    {
+      "id": 1,
+      "location":"Turkey",
+      "name": "1-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":5.00,
+      "Items" : 5,
+      "Instock" : true,
+      "shipping":"in 3 days",
+     "images": [
+        "assets/image/1e@2x.png",
+        "assets/image/2e@2x.png",
+        "assets/image/sandal@2x.png",
+        "assets/image/sandal@2x.png",
+        "assets/image/6b@2x.png",
+        "assets/image/1-big-1@2x.png"
+      ],
+      "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."        
+    },
+    {
+      "id": 2,
+      "location":"Dubai",
+      "name": "2-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":20.00,
+      "Items" : 5,
+      "instock" : true,
+      "shipping":"in 3 days",
+      "images": [
+        "assets/image/2e@2x.png",
+        "assets/image/1e@2x.png",
+        "assets/image/1e@2x.png",
+         "assets/image/6b@2x.png",
+        "assets/image/1-big-1@2x.png",
+        "assets/image/sandal@2x.png"
+      ],
+     "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."      
+    },
+    {
+      "id": 3,
+      "location":"India",
+      "name": "3-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":20.00,
+      "Items" : 5,
+      "instock" : true,
+      "shipping":"in 3 days",
+      "images": [
+        "assets/image/sandal@2x.png",
+        "assets/image/1e@2x.png",
+         "assets/image/6b@2x.png",
+        "assets/image/1-big-1@2x.png",
+        "assets/image/1e@2x.png",
+        "assets/image/2e@2x.png"
+      ],
+     "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."     
+    },
+    {
+      "id": 4,
+      "location":"China",
+      "name": "4-Packs of Women's Clothing",
+      "brand": "Zara",
+      "price": 49.99,
+      "discount": true,
+      "discountAmount":20.00,
+      "Items" : 5,
+      "instock" : true,
+      "shipping":"in 3 days",
+      "images": [
+        "assets/image/1e@2x.png",
+        "assets/image/2e@2x.png",
+        "assets/image/2e@2x.png",
+        "assets/image/sandal@2x.png",
+         "assets/image/6b@2x.png",
+        "assets/image/1-big-1@2x.png"
+      ],
+      "colors":[
+       "assets/image/sweatshirt-d-s.png",
+        "assets/image/sweatshirt-g-s.png",
+        "assets/image/sweatshirt-o-s.png",
+        "assets/image/sweatshirt-p-s.png"
+      ],
+      "sizes":[
+        "XXl",
+        "L",
+        "M"
+      ],
+      "category": "Women's sportswear",
+      "detail" : "The Women's Walking Shoes model Sk005, with its unique features such as an EVA sole, is a top choice for daily sports enthusiasts. This product not only offers longer durability due to its high resistance to wear, but also provides ideal comfort by reducing the pressure exerted on the feet. Additionally, the exceptional flexibility of these shoes allows for smooth and free movements, enhancing the quality of exercise and daily workouts. It has a stitched internal insole, a very soft and flexible insole, and a breathable fabric upper with perforated patterns that allow for easy air ventilation. These shoes are equipped with NFO technology, which makes the sole lighter and significantly improves shock absorption, providing comfort during long walks. This type of sole construction is more commonly found in sandals, which enhances their comfort."     
+    }
+  ],
+
+  "customers": [
+    {
+      "id": 1,
+      "brand": "Levi’s",
+      "mainImage": "assets/image/Rectangle 146.png"
+    },
+    {
+      "id": 2,
+      "brand": "GAP",
+      "mainImage": "assets/image/Rectangle 145.png"
+    },
+    {
+      "id": 3,
+      "brand": "Chanel",
+      "mainImage": "assets/image/Rectangle 144.png"
+    },
+    {
+      "id": 4,
+      "brand": "Louis Vuitton",
+      "mainImage": "assets/image/Rectangle 143.png"
+    },
+    {
+      "id": 5,
+      "brand": "Zara",
+      "mainImage": "assets/image/Rectangle 142.png"
+    },
+    {
+      "id": 6,
+      "brand": "Abercrombie & Fitch",
+      "mainImage": "assets/image/Rectangle 141.png"
+    },
+    {
+      "id": 7,
+      "brand": "Abercrombie & Fitch",
+      "mainImage": "assets/image/Rectangle 141.png"
+    }
+  ],
+
+  "mainCat": [
+    {
+      "id": 1,
+      "catName": "Showes",
+      "mainImage": "assets/svgs/sneaker.svg"
+    },
+    {
+      "id": 2,
+      "catName": "T-shirt",
+      "mainImage": "assets/svgs/t-shirt-with-design.svg"
+    },
+    {
+      "id": 3,
+      "catName": "Sucks",
+      "mainImage": "assets/svgs/women-socks.svg"
+    },
+    {
+      "id": 4,
+      "catName": "Hoodi",
+      "mainImage": "assets/svgs/hooded-jacket.svg"
+    },
+    {
+      "id": 5,
+      "catName": "Hat",
+      "mainImage": "assets/svgs/knit-hat-with-pom-pom.svg"
+    },
+    {
+      "id": 6,
+      "catName": "Watch",
+      "mainImage": "assets/svgs/watch.svg"
+    },  
+    {
+      "id": 7,
+      "catName": "Showes",
+      "mainImage": "assets/svgs/sneaker.svg"
+    },
+    {
+      "id": 8,
+      "catName": "Showes",
+      "mainImage": "assets/svgs/sneaker.svg"
+    },
+    {
+      "id": 9,
+      "catName": "Showes",
+      "mainImage": "assets/svgs/sneaker.svg"
+    }
+  ],
+
+  "slider" :[
+    {
+      "id": 1,
+      "title": "Sportware",
+      "image": "assets/image/slider1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "women's Clothes",
+      "image": "assets/image/slider2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Sportware",
+      "image": "assets/image/slider2.jpg"
+    }
+  ],
+
+  "tinySlider" :[
+    {
+      "id": 1,
+      "title": "Sportware",
+      "image": "assets/image/tinyslider1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "women's Clothes",
+      "image": "assets/image/tinyslider2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Sportware",
+      "image": "assets/image/tinyslider2.jpg"
+    }
+  ],
+
+  "MenCat": [
+    {
+      "id": 1,
+      "catName": "Nike",
+      "mainImage": "assets/image/shoes1.jpg"
+    },
+    {
+      "id": 2,
+      "catName": "Snikers",
+      "mainImage": "assets/image/shoes2.jpg"
+    },
+    {
+      "id": 3,
+      "catName": "Nike",
+       "mainImage": "assets/image/shoes1.jpg"
+    },
+    {
+      "id": 4,
+      "catName": "Snikers",
+       "mainImage": "assets/image/shoes2.jpg"
+    },
+    {
+      "id": 5,
+      "catName": "Nike",
+       "mainImage": "assets/image/shoes1.jpg"
+    },
+    {
+      "id": 6,
+      "catName": "Snikers",
+       "mainImage": "assets/image/shoes2.jpg"
+    },  
+    {
+      "id": 7,
+      "catName": "Nike",
+       "mainImage": "assets/image/shoes1.jpg"
+    },
+    {
+      "id": 8,
+      "catName": "Snikers",
+       "mainImage": "assets/image/shoes2.jpg"
+    }
+     
+  ],
+
+  "CatWoman": [
+    {
+      "id": 1,
+      "catName": "Nike ",
+      "mainImage": "assets/image/womenshoes1.jpg"
+    },
+    {
+      "id": 2,
+      "catName": "Running ",
+      "mainImage": "assets/image/womenshoes2.jpg"
+    },
+    {
+      "id": 3,
+      "catName": "Nike ",
+        "mainImage": "assets/image/womenshoes1.jpg"
+    },
+    {
+      "id": 4,
+      "catName": "Running ",
+       "mainImage": "assets/image/womenshoes2.jpg"
+    },
+    {
+      "id": 5,
+      "catName": "Nike ",
+        "mainImage": "assets/image/womenshoes1.jpg"
+    },
+    {
+      "id": 6,
+      "catName": "Running",
+        "mainImage": "assets/image/womenshoes2.jpg"
+    },  
+    {
+      "id": 7,
+      "catName": "Nike",
+        "mainImage": "assets/image/womenshoes1.jpg"
+    },
+    {
+      "id": 8,
+      "catName": "Running",
+        "mainImage": "assets/image/womenshoes2.jpg"
+    }
+     
+  ]
+
+ 
+}

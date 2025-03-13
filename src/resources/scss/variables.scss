@@ -1,0 +1,56 @@
+$color-green: #4CAF50;
+$color-orange: #FE5721;
+$color-yellow: #F9A825;
+$color-yellow-light: #FEF1DD ;
+$color-white: #FFFFFF;
+$color-gray20: #F5F5F5;
+$color-gray40: #E0E0E0;
+$color-gray50: #D6D6D6;
+$color-gray60: #BDBDBD;
+$color-gray80: #9E9E9E;
+$color-gray: #616161;
+$color-black: #212121;
+$color-semi-black: #21212180;
+$color-e2 : #e2e2e2;
+$color-e0: #e0e0e0;
+$color-bluedark: #3949AB;
+
+
+/* Font FAMILY*/
+$IRANSansx: IRANSansX;
+
+/* FONT STYLE */
+$font-weight-normal: normal;
+$font-weight-600: 600;
+$font-weight-900: 900;
+$font-weight-bold: bold;
+
+/*FONT SIZE*/
+$font-size-15: .94rem;
+$font-size-17: 1.06rem;
+$font-size-20: 1.25rem;
+$font-size-26: 1.6rem;
+$font-size-28: 28px;
+$font-size-30: 1.875rem;
+$font-size-42: 42px;
+
+/*CHARACTER SPACING*/
+$-character-spacing-0: 0px;
+
+/*LINE SPACING*/
+$line-spacing-26: 26px;
+$line-spacing-30: 30px;
+$line-spacing-35: 33px;
+$line-spacing-39: 39px;
+$line-spacing-42: 42px;
+$line-spacing-45: 45px;
+$line-spacing-63: 63px;
+.reccc{
+    color:red;
+}
+.border-primary{
+   border-color: #F9A825 !important;
+}
+.bg-primary {
+    background-color: #F9A825 !important;
+}

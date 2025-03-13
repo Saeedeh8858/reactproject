@@ -1,0 +1,104 @@
+
+@import 'variables';
+.--extre > div {
+    padding: 0 1px 30px 0;
+}
+ 
+
+.card {
+    margin-left: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+
+    .public-btn {
+        display: flex;
+        align-items: center;
+    }
+
+    .itemImage {
+        overflow: hidden;
+    }
+
+    &:hover {
+        .public-btn {
+            visibility: visible !important;
+            background: $color-yellow !important;
+            color: #fff !important;
+            svg {
+                color: #fff !important
+            }
+        }
+
+        .visible-in-hover {
+            transition: all .5s ease-in-out;
+            transform: scale(1.05);
+
+            &.scaleImg {
+                transform: scale(1) !important;
+                transform-origin: unset !important;
+            }
+        }
+
+        .unvisible-in-hover {
+            visibility: hidden;
+            display: none;
+        }
+
+        .bg-iconSvg {
+            visibility: visible !important
+        }
+    }
+}
+.card .itemImage img {
+width: 100%;
+}
+
+.packageBtn .swiper-button-next , 
+.packageBtn .swiper-button-prev {
+    text-align: center !important;
+    border: none !important;
+    display: flex !important;
+    padding: 16px 15px !important;
+    z-index: 1 !important;
+    background-color:$color-yellow;
+    //@include owl-btn-color($color:#e0e0e0);
+   
+
+    &.gray {
+        background-color: #e0e0e0;;
+      //  @include owl-btn-color($color:$color-e0);
+    }
+
+    &.yellow {
+        background-color: yellow;
+      //  @include owl-btn-color($color:$color-yellow);
+    }
+
+    &.end-rounded {
+        border-bottom-left-radius: .5rem;
+        border-top-left-radius: .5rem;
+    }
+
+    &.start-rounded {
+        border-bottom-right-radius: .5rem;
+        border-top-right-radius: .5rem;
+    }
+
+    &.--rounded {
+      //  @include radius(5px,5px,5px,5px);
+    }
+}
+.packageBtn .swiper-button-next{
+    border-bottom-left-radius: .5rem;
+    border-top-left-radius: .5rem;
+    right:0 !important;
+}
+.packageBtn .swiper-button-prev{
+    border-bottom-right-radius: .5rem;
+    border-top-right-radius: .5rem;
+    left:0 !important;
+}
+.packageBtn .swiper-button-prev:after,.packageBtn .swiper-button-next:after{
+    --swiper-navigation-size: 20px !important;
+    color:#fff !important;
+}
