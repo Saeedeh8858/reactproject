@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: BeVietnam;
+    font-style: normal;
+    font-weight: normal;
+   // src: url('../fonts/isw.woff?ver=g6grw80');
+    src: url('../fonts/BeVietnam-Thin.ttf');
+    font-display: swap;
+}
+
+$BeVietnam: BeVietnam;

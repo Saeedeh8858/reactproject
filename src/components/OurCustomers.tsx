@@ -4,7 +4,6 @@ import "swiper/css/navigation";
 import "swiper/css/autoplay"; // Ensure autoplay styles are included
 import { Navigation, Autoplay } from "swiper/modules";
 import "../resources/dest/css/TodayPackages.css";
-import "react-image-lightbox/style.css";
 import { useEffect, useState } from 'react';
 import { fetchCustomers } from "../api/fetchapi";
 

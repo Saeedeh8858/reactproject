@@ -1,8 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import "../resources/dest/css/menu.css";
-// import xIcon from "../resources/svg/x.svg";
-// import menuIcon from "../resources/svg/menu.svg";
 import { ReactComponent as MenuIcon } from "../resources/svg/menu.svg";
 import { ReactComponent as XIcon } from "../resources/svg/x.svg";
 

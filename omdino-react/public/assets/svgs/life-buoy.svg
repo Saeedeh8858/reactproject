@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="life-buoy" width="22" height="22" viewBox="0 0 22 22">
+	<g transform="translate(-2 -2)"><path class="a" d="M23,13A10,10,0,1,1,13,3,10,10,0,0,1,23,13Z"/><path class="a" d="M20,16a4,4,0,1,1-4-4,4,4,0,0,1,4,4Z" transform="translate(-3 -3)"/><path class="a" d="M7.4,7.4l4.24,4.24" transform="translate(-1.465 -1.465)"/><path class="a" d="M22.245,22.245l4.24,4.24" transform="translate(-6.415 -6.415)"/><path class="a" d="M22.245,11.635l4.24-4.24" transform="translate(-6.415 -1.465)"/><path class="a" d="M22.245,11.99l3.53-3.53" transform="translate(-6.415 -1.82)"/><path class="a" d="M7.4,26.485l4.24-4.24" transform="translate(-1.465 -6.415)"/></g>
+</svg>
